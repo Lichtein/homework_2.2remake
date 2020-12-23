@@ -23,7 +23,7 @@ public class Main {
                 printable = new Warrior("Warrior", 150);
                 break;
             case "Ogre":
-                printable = new Warrior("Ogre", 200);
+                printable = new Ogre("Ogre", 200);
                 break;
             case "Medic":
                 printable = new Medic("Medic", 89);
