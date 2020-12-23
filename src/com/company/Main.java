@@ -17,7 +17,7 @@ public class Main {
 
 
 
-          switch (className){
+        switch (className){
 
             case "Warrior":
                 printable = new Warrior("Warrior", 2500, 46, 400, 500);
@@ -33,6 +33,8 @@ public class Main {
 
 
         return printable;
+
+
     }
 
 
